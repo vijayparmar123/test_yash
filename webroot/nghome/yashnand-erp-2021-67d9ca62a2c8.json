@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yashnand-erp-2021",
+  "private_key_id": "67d9ca62a2c8068b939afd67ebe7cd739ad8644c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClY37ArAI5nM/s\nTCZK6/2QXp+Ck5mNQT81eEv7Rdx+gwdr1aDWIBsHjmMtcJVoKe+0QIuNgM2ZmrRS\ncafHWd+1E+qgLOGYy1AnYxGklR2duRcOkAxQ12EZJGdOg1i3MQx06AtAqYByG+o1\nBzHu01UGGSlz5wtNOLwHdurO9SWVBCGd9ItBCTl5nDhb2IxcVoJJRFhr7dZ+oRQU\nIB8RajhDUP8NIpLko2exYpwPmvBiFpCihDt5sZcIDNsQW8rhb6gIjfhXY83fP908\nFtPfJSIXsuNS8QXgJiufE5JoiUxSuqKJt4Nsizczp85UY69Z3eGu3bngqg2rl5yG\n/QZ+QkXtAgMBAAECggEAIJHJYlP9VC8nWxdb6yEyG/4mV2aNtJ2Gvxbjj6YgV+Gh\n0oCNXd2QtRo7ObWUFqE7jTmwwbr9wiQPIrUzHzT5swUrDUQJYTeYn0kJLmoXHPpY\nKgwAAOOJQZRDq9h93gWQuG0B2kgG/XG125+BG9EOS1clLKfxN9HWZXnrn7nzHrcS\nYBB9KHe19Sdq1lqdo9jZkrRs1UwcKqoVSwrmG8YrLWaJWdmnss039O5mf/hAGbEU\nV1kyd6XXph+B1Pvwegw6eRIQgsNUyHVhb76yVTZ6tXNwy46rkPshLAObGMGAG7Lk\nLrUlTSOFcGnFs4bjPuyAjAaFSmHcNLU6ozO7Yu4uQQKBgQDaXm3K+l4Thl+l5Tj1\nhdgE3wbgDY45vonKjpwFPUCzJU1muck81x8zf5DtxpNYWlAIKkFx30rwKOH87UT3\nHkubthqHyD2mHH2soNrAfX1eWRu6e3k958osYXGypPqlV2yq7YKsb9jLIzs3v8zq\n7XBxJAhfsRE0610Hmb5sBxIDZQKBgQDB48nuKC8B/ZpvW9D69aBhfsAT7Q2VFBIN\nKK5UA3Hw8+2kTHdB5AB6xGXnmmuvAFVjr5JzlCBygY88yJA7iwgHnXWCyqjNbtmj\nRjdQR2qXwA4rSBDuLkJTmWqrRXguW0opP0T8ZENKdrZ+bzTsDyANE1Je45BOPxwC\nDe0vk9cD6QKBgFoWTNtJUNhjPkB1gXsg/Y586Bw023ENH1F2Zf1vWKrPf9AaY1/7\nK78WKJc/rffsQkosDJXK1eKgKyMqS6JbWDvj86wCuxQ1es9mCPkSjE8JGfxkBg+4\n+Vo31S0rDNB7cbROifNTrS+Y2ExWj1Z4IEQ85kt8BCo900JYdguhGxhVAoGBALUb\n8sZscKR6YGR+rnGNONd5DzBNsO89BTOXeWdupGL/Z06eQpOgxzXl+I5jdwzL0fdA\nzBr8FWcAUGzlp5yG3ORIF7kpVo42akMSVp69ZvsC4flZ4r6pJTlzx+jeBkm+6kIn\nIGhlu1l2FDd750JNSpIMJ1gNVwFP//iHS7OydBjpAoGAHwIy/rJlswm/J6Q8yMXS\n6oTdHuyAkzm20v1UkVxb/ZEE/9ixMnsa2pArShB3oHDGtoyIdRbfZl2lQKQBy5mS\nZc9Hsyj0Vs4SEdh6Tj6TU75IlJ/nfr87bfn0zVM8Rq9u3hWGudB3budbO9PI5YFi\nBJtnd8C5ZIoP83GilZzzE3Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yashnand-2021-attachment@yashnand-erp-2021.iam.gserviceaccount.com",
+  "client_id": "110131983781302343036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yashnand-2021-attachment%40yashnand-erp-2021.iam.gserviceaccount.com"
+}
